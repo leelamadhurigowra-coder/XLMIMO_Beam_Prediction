@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.mat
+*.npy
+*.npz
+*.pt
+*.pth
+*.pkl
+results/
+models/
+.env

@@ -1,0 +1,18 @@
+
+{
+    "project": "Transformer-Based Beam-Split-Aware Multi-Subcarrier Beam Prediction for Wideband XLMIMO",
+    "carrier_frequency_hz": 3500000000,
+    "bandwidth_hz": 100000000,
+    "num_subcarriers": 64,
+    "num_tx_antennas_x": 8,
+    "num_tx_antennas_y": 8,
+    "num_tx_antennas": 64,
+    "num_rx_antennas": 1,
+    "num_beams_x": 8,
+    "num_beams_y": 8,
+    "num_beams": 64,
+    "antenna_spacing_wavelengths": 0.5,
+    "speed_of_light_mps": 299792458,
+    "batch_size": 128,
+    "random_seed": 42
+}
